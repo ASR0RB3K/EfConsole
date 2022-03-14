@@ -67,6 +67,7 @@ namespace efconsole
                     } goto k;
                 }
             }
+            
             if (choose == "Student")
             {
                 while (!stoppingToken.IsCancellationRequested)
